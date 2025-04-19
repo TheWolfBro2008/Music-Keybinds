@@ -1,0 +1,42 @@
+{
+    "instrument": "Bb Clarinet",
+    "transposition": 2,
+    "keybindings": {
+        "E3": {
+            "key": "MouseMove:Up",
+            "sustain": true
+        },
+        "F3": {
+            "key": "MouseMove:Down",
+            "sustain": true
+        },
+        "F#3": {
+            "key": "MouseMove:Left",
+            "sustain": true
+        },
+        "G3": {
+            "key": "Mouse:Left",
+            "sustain": true
+        },
+        "G#3": {
+            "key": "MouseMove:Right",
+            "sustain": true
+        },
+        "C4": {
+            "key": "w",
+            "sustain": true
+        },
+        "C#4": {
+            "key": "a",
+            "sustain": true
+        },
+        "D4": {
+            "key": "s",
+            "sustain": true
+        },
+        "D#4": {
+            "key": "d",
+            "sustain": true
+        }
+    }
+}
