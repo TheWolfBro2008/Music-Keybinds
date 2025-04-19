@@ -9,7 +9,6 @@
 **Music-Keybinds** is an innovative application that allows you to use **musical instruments** (like clarinet, trumpet, flute, and others) to control your PC. Whether you're using it to play games, create art, or enhance accessibility, **Music-Keybinds** turns your instrument into a real-time input device for your computer. Blow a note, and voilà — your keyboard, mouse, or even mouse movement responds instantly!
 
 Perfect for:
-- 💡 **Accessibility solutions** for those with limited mobility
 - 🎮 **Novel ways to play games** (Ever wanted to play a game with your trumpet or saxophone?)
 - 🎨 **Creative control schemes** for artists, musicians, and streamers
 - 🎼 **Fun, goofy experiments** because... why not?
