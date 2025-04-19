@@ -25,28 +25,20 @@
 
 ## 4. **Configure Your Controls**
 
-- Once the app opens, click on **"Settings"** to access the configuration menu.
+- There are defaul profiles provided! Want to make your own? Follow the rest of these bullet points!
 - Choose the instrument you're using (e.g., **Bb Clarinet**, **Trumpet**, etc.) from the **Instrument Selection** dropdown.
 - Map Musical notes to keyboard keys, mouse buttons, or even mouse movement actions. You can also assign hold/release actions to specific notes.
 
 ---
 
-## 5. **Start Playing and Mapping**
-
-- Enable **“Learn Mode”** to quickly map notes to specific actions while playing your instrument.
-- You’ll see live feedback of the pitch being detected and the actions it triggers.
-- Make sure to adjust the **Note Stabilizer** if you notice any accidental inputs from shaky notes.
-
----
-
-## 6. **Save Your Profile**
+## 5. **Save Your Profile**
 
 - Once you’ve configured your controls, you can save them as a profile for later use.
 - You can switch between multiple profiles, allowing you to have different control schemes for different games or tasks.
 
 ---
 
-## 7. **Enjoy!**
+## 6. **Enjoy!**
 
 - Now, whenever you play a note, it will trigger the corresponding action on your PC, whether it’s typing a letter, clicking the mouse, or moving the mouse cursor.
 
